@@ -9,3 +9,5 @@ Something new
 ##Deployment - info here
 
 ###something else
+
+###Added copyright notice.
